@@ -29,6 +29,12 @@
 
 giovanni.ncmorais1@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnmors&show_icons=true&theme=tokyonight)
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gnmors&show_icons=true&border_radius=3&theme=tokyonight" alt="Anurag's GitHub stats">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnmors&layout=compact&border_radius=3&theme=tokyonight" alt="Top Langs">
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnmors&layout=compact&theme=tokyonight)
+<p>
+    <img src="https://github.com/user-attachments/assets/be15de99-2789-4a0d-93a3-10947fb23b20" width="180" alt="Badge-Conversor" />
+    <img src="https://github.com/user-attachments/assets/665837dc-3290-4587-979f-3a9da4505148" width="180" alt="Decodificador de texto" />
+</p>
