@@ -2,7 +2,7 @@
 
 ### 💼 Áreas:
 
-### • Desenvolvedor Full-Stack 📌
+### • Desenvolvedor Back-End📌
 ### _Cursando Análise e Desenvolvimento de Sistemas📚_
 
 ##
