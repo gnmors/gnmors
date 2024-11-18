@@ -33,7 +33,9 @@ giovanni.ncmorais1@gmail.com
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnmors&layout=compact&border_radius=3&theme=tokyonight" alt="Top Langs">
 </div>
 
-<p>
-    <img src="https://github.com/user-attachments/assets/be15de99-2789-4a0d-93a3-10947fb23b20" width="180" alt="Badge-Conversor"/>
-    <img src="https://github.com/user-attachments/assets/665837dc-3290-4587-979f-3a9da4505148" align="right" width="180" alt="Decodificador de texto"/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/be15de99-2789-4a0d-93a3-10947fb23b20" width="180" alt="Badge-Conversor" />
+  <img src="https://github.com/user-attachments/assets/665837dc-3290-4587-979f-3a9da4505148" width="180" alt="Decodificador de texto" />
+  <img src="https://github.com/user-attachments/assets/f7988463-4ffc-45b5-a61a-c71229498715" width="180" alt="Liter-Alura" />
 </p>
+
