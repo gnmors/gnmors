@@ -3,7 +3,8 @@
 ### 💼 Áreas:
 
 ### • Desenvolvedor Back-End📌
-### _Cursando Análise e Desenvolvimento de Sistemas📚_
+### _Cursando Análise e Desenvolvimento de Sistemas na Faculdade Impacta📚_
+### _Formado no Programa Oracle Next Education F2 T7 Back-End 🌎 [@Alura](https://www.alura.com.br/) | [@One](https://www.oracle.com/br/)<br>_
 
 ##
 ### Social:
