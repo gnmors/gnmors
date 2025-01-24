@@ -22,7 +22,7 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
 
-##
+
 
 ### 📧 Contato:
 
@@ -33,9 +33,11 @@ giovanni.ncmorais1@gmail.com
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnmors&layout=compact&border_radius=3&theme=tokyonight" alt="Top Langs">
 </div>
 
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://github.com/user-attachments/assets/be15de99-2789-4a0d-93a3-10947fb23b20" width="180" alt="Badge-Conversor" />
   <img src="https://github.com/user-attachments/assets/665837dc-3290-4587-979f-3a9da4505148" width="180" alt="Decodificador de texto" />
   <img src="https://github.com/user-attachments/assets/f7988463-4ffc-45b5-a61a-c71229498715" width="180" alt="Liter-Alura" />
+  <img src="https://github.com/user-attachments/assets/c18bafe6-4bca-49b0-bdb5-6ba6ef5e192f" width="180" alt="Badge-Spring" />
 </p>
+
 
